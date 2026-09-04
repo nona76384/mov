@@ -1,6 +1,6 @@
 {
   "app_status": {
-    "blocked": "ON",
-    "new_package": "com.movieplus.androuiad.apP"
+    "blocked": "on",
+    "new_package": "com.movieplus.androuiad.app"
   }
 }
